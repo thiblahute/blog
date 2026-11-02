@@ -1,0 +1,19 @@
+baseURL = "https://blog.thibaultsaunier.com/"
+title = "Thibault Saunier"
+languageCode = "en"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+
+[params]
+  description = "Thibault Saunier's blog: GStreamer, multimedia, open source."
+  author = "Thibault Saunier"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["html", "rss"]
+  section = ["html", "rss"]
+
+[permalinks.page]
+  posts = "/:year/:month/:slug/"
