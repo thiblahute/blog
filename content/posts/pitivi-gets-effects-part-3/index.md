@@ -10,7 +10,7 @@ This week I have been debugging everything and I final (Thanks to my mentor Edwa
   
 So better show you how it works for now. It is still quite buggy, and not really ergonomic, but it is the beginning!  
   
-Here is the video (of course edited in Pitivi and using effects!):  
+Here is the video (of course edited in Pitivi and using effects). The original host (people.collabora.co.uk) is gone, so the video is no longer available:  
 
 You need a modern browser to see this video (chromium, firefox, epiphnay, midori...)
 

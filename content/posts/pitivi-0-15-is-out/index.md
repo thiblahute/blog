@@ -33,6 +33,8 @@ source: blogger
 
 <span class="author-g-wdo0nc53c22qlc85">Jean François did a great </span><span class="author-g-ubu9iid79aw145sw">screencast</span><span class="author-g-wdo0nc53c22qlc85"> that sums up what has been done during the last 2 years:</span>
 
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/obLA4ZagGew" title="YouTube video" allowfullscreen loading="lazy"></iframe></div>
+
 </div>
 
   
@@ -45,6 +47,8 @@ source: blogger
 <div id="magicdomid72" class="ace-line">
 
 <span class="author-g-ubu9iid79aw145sw">H</span><span class="author-g-wdo0nc53c22qlc85">e also</span><span class="author-g-ubu9iid79aw145sw"> published the video of the 2011 desktop summit and PiTiVi/GES hackfest</span><span class="author-g-wdo0nc53c22qlc85"> </span><span class="author-g-ubu9iid79aw145sw">for your enjoyment</span>
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/UlFrshNSqJ0" title="YouTube video" allowfullscreen loading="lazy"></iframe></div>
 
 :  
   

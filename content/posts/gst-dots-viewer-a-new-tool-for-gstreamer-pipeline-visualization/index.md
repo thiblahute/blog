@@ -58,3 +58,5 @@ We plan on adding more feature and  have this list of possibilities:
 This could transform gst-dots-viewer into a more complete debugging and monitoring dashboard for GStreamer applications.
 
 ## Demo
+
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/bk9Vy44RtfU" title="YouTube video" allowfullscreen loading="lazy"></iframe></div>

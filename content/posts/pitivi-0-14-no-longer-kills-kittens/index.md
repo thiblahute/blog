@@ -82,6 +82,8 @@ source: blogger
 
 <span class="author-g-fuiwc1yg1a5l5cva">T</span><span class="author-g-o536cfcy73qm7wpq">o celebrate</span><span class="author-g-35dsi8gqguo3xvk6">,</span><span class="author-g-o536cfcy73qm7wpq"> I </span><span class="author-g-fuiwc1yg1a5l5cva">personally </span><span class="author-g-o536cfcy73qm7wpq">wanted to </span><span class="author-g-fuiwc1yg1a5l5cva">do some [dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food) </span><span class="author-g-fuiwc1yg1a5l5cva">by making this little video, with the additional constraint of using only footage coming from my own camera (no, I am not a video artist!):</span>
 
+<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/dBlpbF8sypM" title="YouTube video" allowfullscreen loading="lazy"></iframe></div>
+
 </div>
 
   
