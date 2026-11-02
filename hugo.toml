@@ -1,6 +1,6 @@
 baseURL = "https://blog.thibaultsaunier.com/"
 title = "Thibault Saunier"
-languageCode = "en"
+locale = "en"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 
