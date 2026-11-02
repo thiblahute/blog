@@ -2,7 +2,7 @@
 title: "gst-dots-viewer: A New Tool for GStreamer Pipeline Visualization"
 date: 2025-05-16
 slug: gst-dots-viewer-a-new-tool-for-gstreamer-pipeline-visualization
-tags: [gstreamer, debugging, tools, gnome]
+tags: [gstreamer, debugging, tools, gnome, planet]
 guid: https://blogs.gnome.org/tsaunier/2025/05/16/gst-dots-viewer-a-new-tool-for-gstreamer-pipeline-visualization/
 source: wordpress
 ---
