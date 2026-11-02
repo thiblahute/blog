@@ -1,5 +1,5 @@
 ---
-title: "Frame accuracy in GStreamer [Editing Services]"
+title: "Frame accuracy in GStreamer Editing Services"
 date: 2020-05-08
 slug: gstreamer-frame-accuracy
 draft: true
