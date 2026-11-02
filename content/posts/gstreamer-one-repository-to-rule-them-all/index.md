@@ -2,7 +2,7 @@
 title: "GStreamer: one repository to rule them all"
 date: 2021-09-29
 slug: gstreamer-one-repository-to-rule-them-all
-tags: [gstreamer, meson, build-system]
+tags: [gstreamer, meson, build-system, gnome]
 guid: https://blogs.gnome.org/tsaunier/2021/09/29/gstreamer-one-repository-to-rule-them-all/
 source: wordpress
 ---

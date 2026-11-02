@@ -2,7 +2,7 @@
 title: "GStreamer Editing Services OpenTimelineIO support"
 date: 2019-04-22
 slug: gstreamer-editing-services-opentimelineio-support
-tags: [gstreamer, ges, opentimelineio, pitivi, igalia]
+tags: [gstreamer, ges, opentimelineio, pitivi, igalia, gnome]
 guid: https://blogs.gnome.org/tsaunier/2019/04/22/gstreamer-editing-services-opentimelineio-support/
 source: wordpress
 ---
