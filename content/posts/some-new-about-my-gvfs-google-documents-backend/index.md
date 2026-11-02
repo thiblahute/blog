@@ -2,6 +2,7 @@
 title: "Some new about my GVFS Google Documents Backend"
 date: 2009-12-13
 slug: some-new-about-my-gvfs-google-documents-backend
+tags: [gnome, gsoc, gvfs]
 guid: https://thiblahute.blogspot.com/2009/12/some-new-about-my-gvfs-google-documents.html
 source: blogger
 ---

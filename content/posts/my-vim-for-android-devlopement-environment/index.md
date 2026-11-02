@@ -2,6 +2,7 @@
 title: "My vim for android devlopement environment"
 date: 2009-11-22
 slug: my-vim-for-android-devlopement-environment
+tags: [android, vim]
 guid: https://thiblahute.blogspot.com/2009/11/my-vim-for-android-devlopement.html
 source: blogger
 ---

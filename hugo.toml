@@ -1,19 +1,59 @@
 baseURL = "https://blog.thibaultsaunier.com/"
 title = "Thibault Saunier"
 locale = "en"
-disableKinds = ["taxonomy", "term"]
+theme = "PaperMod"
 enableRobotsTXT = true
+buildFuture = true
 
-[params]
-  description = "Thibault Saunier's blog: GStreamer, multimedia, open source."
-  author = "Thibault Saunier"
+[pagination]
+  pagerSize = 100
+
+[taxonomies]
+  tag = "tags"
+
+[outputs]
+  home = ["html", "rss", "json"]
+
+[permalinks.page]
+  posts = "/:year/:month/:slug/"
 
 [markup.goldmark.renderer]
   unsafe = true
 
-[outputs]
-  home = ["html", "rss"]
-  section = ["html", "rss"]
+[params]
+  description = "Thibault Saunier's blog: GStreamer, multimedia, open source."
+  author = "Thibault Saunier"
+  mainSections = ["posts"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButton = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  TocOpen = false
+  ShowRssButtonInSectionTermList = true
+  [params.homeInfoParams]
+    Title = "Thibault Saunier"
+    Content = "Multimedia and open source at Igalia: GStreamer, GStreamer Editing Services, Pitivi, WebKit, and friends."
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/thiblahute"
+  [[params.socialIcons]]
+    name = "gitlab"
+    url = "https://gitlab.freedesktop.org/thiblahute"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
 
-[permalinks.page]
-  posts = "/:year/:month/:slug/"
+[menu]
+  [[menu.main]]
+    name = "Archive"
+    url = "/archive/"
+    weight = 10
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 30

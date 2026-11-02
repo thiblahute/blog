@@ -2,6 +2,7 @@
 title: "Working for Collabora Multimedia :)"
 date: 2010-12-17
 slug: working-for-collabora-multimedia
+tags: [collabora]
 guid: https://thiblahute.blogspot.com/2010/12/working-for-collabora-multimedia.html
 source: blogger
 ---

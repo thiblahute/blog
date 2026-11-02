@@ -2,6 +2,7 @@
 title: "GStreamer for video editing (ideas)"
 date: 2020-05-08
 slug: gstreamer-for-video-editing
+tags: [gstreamer, ges, igalia]
 draft: true
 ---
 

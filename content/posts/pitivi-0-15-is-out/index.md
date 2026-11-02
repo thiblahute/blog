@@ -2,6 +2,7 @@
 title: "PiTiVi 0.15 is out"
 date: 2011-09-28
 slug: pitivi-0-15-is-out
+tags: [pitivi, gnome]
 guid: https://thiblahute.blogspot.com/2011/09/pitivi-015-is-out.html
 source: blogger
 ---

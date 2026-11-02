@@ -2,6 +2,7 @@
 title: "Pitivi master finaly gets effects!"
 date: 2010-09-22
 slug: pitivi-master-finaly-gets-effects
+tags: [pitivi, gstreamer, gnome]
 guid: https://thiblahute.blogspot.com/2010/09/pitivi-master-finaly-gets-effects.html
 source: blogger
 ---

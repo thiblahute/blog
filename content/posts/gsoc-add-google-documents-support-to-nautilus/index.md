@@ -2,6 +2,7 @@
 title: "Gsoc: add google documents support to nautilus"
 date: 2009-08-18
 slug: gsoc-add-google-documents-support-to-nautilus
+tags: [gnome, gsoc, gvfs, nautilus]
 guid: https://thiblahute.blogspot.com/2009/08/gsoc-add-google-documents-support-to.html
 source: blogger
 ---

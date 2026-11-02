@@ -2,6 +2,7 @@
 title: "WebKitGTK and WPE gain WebRTC support back!"
 date: 2018-07-31
 slug: webkitgtk-and-wpe-gains-webrtc-support-back
+tags: [webkit, webrtc, gstreamer, igalia]
 guid: https://blogs.gnome.org/tsaunier/2018/07/31/webkitgtk-and-wpe-gains-webrtc-support-back/
 source: wordpress
 ---

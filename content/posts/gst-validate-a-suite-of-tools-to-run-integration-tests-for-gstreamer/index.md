@@ -2,6 +2,7 @@
 title: "gst-validate: A suite of tools to run integration tests for GStreamer"
 date: 2014-04-21
 slug: gst-validate-a-suite-of-tools-to-run-integration-tests-for-gstreamer
+tags: [gstreamer, gst-validate, testing]
 guid: https://blogs.gnome.org/tsaunier/2014/04/21/gst-validate-a-suite-of-tools-to-run-integration-tests-for-gstreamer-2/
 source: wordpress
 ---

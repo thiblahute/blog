@@ -2,6 +2,7 @@
 title: "Presentation of a programing course of Python (and other Gnome related technologies) I am now teaching"
 date: 2010-04-25
 slug: presentation-of-a-programing-course-of-python-and-other-gnom
+tags: [gnome, python]
 guid: https://thiblahute.blogspot.com/2010/04/presentation-of-programing-course-of.html
 source: blogger
 ---

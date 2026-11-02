@@ -2,6 +2,7 @@
 title: "PiTiVi 0.14 \"No longer kills kittens\""
 date: 2011-05-31
 slug: pitivi-0-14-no-longer-kills-kittens
+tags: [pitivi, gnome]
 guid: https://thiblahute.blogspot.com/2011/05/pitivi-014-no-longer-kills-kittens.html
 source: blogger
 ---

@@ -2,6 +2,7 @@
 title: "Pitivi is getting effects, Part 1"
 date: 2010-05-14
 slug: pitivi-is-getting-effects-part-1
+tags: [pitivi, gstreamer, gnome]
 guid: https://thiblahute.blogspot.com/2010/05/pitivi-is-getting-effects-part-1.html
 source: blogger
 ---

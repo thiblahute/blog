@@ -2,6 +2,7 @@
 title: "PiTiVi: Let's go faster!"
 date: 2011-06-16
 slug: pitivi-let-s-go-faster
+tags: [pitivi, gnome]
 guid: https://thiblahute.blogspot.com/2011/06/pitivi-lets-go-faster.html
 source: blogger
 ---

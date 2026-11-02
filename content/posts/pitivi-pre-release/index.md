@@ -2,6 +2,7 @@
 title: "PiTiVi pre-release"
 date: 2011-05-25
 slug: pitivi-pre-release
+tags: [pitivi, gnome]
 guid: https://thiblahute.blogspot.com/2011/05/pitivi-pre-release.html
 source: blogger
 ---

@@ -2,6 +2,7 @@
 title: "I have been accepted for the Google Summer of Code 2010"
 date: 2010-04-26
 slug: i-have-been-accepted-for-the-google-summer-of-code-2010
+tags: [gsoc, pitivi, gnome]
 guid: https://thiblahute.blogspot.com/2010/04/i-have-been-accepetd-for-google-summer.html
 source: blogger
 ---

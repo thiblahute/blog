@@ -2,6 +2,7 @@
 title: "Pitivi get effects, part 4"
 date: 2010-06-22
 slug: pitivi-get-effects-part-4
+tags: [pitivi, gstreamer, gnome]
 guid: https://thiblahute.blogspot.com/2010/06/pitivi-get-effects-part-4.html
 source: blogger
 ---

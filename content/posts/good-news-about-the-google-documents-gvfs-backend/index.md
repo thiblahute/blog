@@ -2,6 +2,7 @@
 title: "Good news about the Google Documents Gvfs Backend"
 date: 2010-01-16
 slug: good-news-about-the-google-documents-gvfs-backend
+tags: [gnome, gvfs]
 guid: https://thiblahute.blogspot.com/2010/01/good-news-about-google-documents-gvfs.html
 source: blogger
 ---

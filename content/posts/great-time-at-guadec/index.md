@@ -2,6 +2,7 @@
 title: "Great time at GUADEC"
 date: 2010-08-05
 slug: great-time-at-guadec
+tags: [gnome, guadec]
 guid: https://thiblahute.blogspot.com/2010/08/great-time-at-guadec.html
 source: blogger
 ---

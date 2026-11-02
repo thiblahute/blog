@@ -1,9 +1,0 @@
-{{ define "main" }}
-<p class="intro">Thibault Saunier. Multimedia and open source at Igalia: GStreamer, GStreamer Editing Services, Pitivi, WebKit, and friends.</p>
-{{ range (where site.RegularPages "Section" "posts").GroupByDate "2006" "desc" }}
-<h2 class="year">{{ .Key }}</h2>
-<ul class="posts">
-{{ range .Pages.ByDate.Reverse }}<li><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
-</ul>
-{{ end }}
-{{ end }}

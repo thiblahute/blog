@@ -2,6 +2,7 @@
 title: "Going to GUADEC"
 date: 2010-05-21
 slug: going-to-guadec
+tags: [gnome, guadec]
 guid: https://thiblahute.blogspot.com/2010/05/going-to-guadec.html
 source: blogger
 ---

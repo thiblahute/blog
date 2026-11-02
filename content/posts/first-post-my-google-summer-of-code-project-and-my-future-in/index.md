@@ -2,6 +2,7 @@
 title: "First post: My google Summer of code project and my future in the gnome comunity"
 date: 2009-08-05
 slug: first-post-my-google-summer-of-code-project-and-my-future-in
+tags: [gnome, gsoc]
 guid: https://thiblahute.blogspot.com/2009/08/first-post-my-google-summer-of-code.html
 source: blogger
 ---

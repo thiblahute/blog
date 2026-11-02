@@ -2,6 +2,7 @@
 title: "Frame accuracy in GStreamer Editing Services"
 date: 2020-05-08
 slug: gstreamer-frame-accuracy
+tags: [gstreamer, ges, igalia]
 draft: true
 ---
 
